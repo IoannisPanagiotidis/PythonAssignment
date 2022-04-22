@@ -59,3 +59,7 @@ if undercoat == "yes":
 if undercoat == "no":
     print("\nThe total cost of your paint is going to be £" + str(paint_cost))
 
+
+    
+    
+    
